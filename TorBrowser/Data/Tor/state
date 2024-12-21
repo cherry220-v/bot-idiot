@@ -1,0 +1,40 @@
+# Tor state file last generated on 2024-12-21 21:12:39 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 315 2
+CircuitBuildTimeBin 325 2
+CircuitBuildTimeBin 345 1
+CircuitBuildTimeBin 355 3
+CircuitBuildTimeBin 375 2
+CircuitBuildTimeBin 455 1
+CircuitBuildTimeBin 465 1
+CircuitBuildTimeBin 475 2
+CircuitBuildTimeBin 505 1
+CircuitBuildTimeBin 555 2
+CircuitBuildTimeBin 565 1
+CircuitBuildTimeBin 585 1
+CircuitBuildTimeBin 595 1
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 645 1
+CircuitBuildTimeBin 665 1
+CircuitBuildTimeBin 695 1
+CircuitBuildTimeBin 725 2
+CircuitBuildTimeBin 735 1
+CircuitBuildTimeBin 955 1
+CircuitBuildTimeBin 995 1
+CircuitBuildTimeBin 1205 1
+CircuitBuildTimeBin 1285 1
+CircuitBuildTimeBin 1355 1
+CircuitBuildTimeBin 1445 1
+CircuitBuildTimeBin 1515 1
+CircuitBuildTimeBin 1685 1
+CircuitBuildTimeBin 1735 1
+CircuitBuildTimeBin 1845 1
+CircuitBuildTimeBin 2975 1
+Dormant 0
+Guard in=bridges rsa_id=939A5CFB952ADCE1ACF697264B45D8DABC5C6479 bridge_addr=46.226.107.60:15864 sampled_on=2024-12-20T15:16:36 sampled_idx=0 sampled_by=0.4.8.13 listed=1 confirmed_on=2024-12-19T05:08:24 confirmed_idx=0 pb_use_attempts=3.000000 pb_use_successes=3.000000 pb_circ_attempts=16.000000 pb_circ_successes=16.000000 pb_successful_circuits_closed=16.000000
+Guard in=bridges rsa_id=9F6651B7CA83B25D5C7BDC9E420210376199BCBE bridge_addr=91.134.80.167:11198 sampled_on=2024-12-20T20:16:26 sampled_idx=1 sampled_by=0.4.8.13 listed=1 confirmed_on=2024-12-15T16:29:51 confirmed_idx=1 pb_circ_attempts=7.000000 pb_circ_successes=7.000000 pb_successful_circuits_closed=7.000000
+LastWritten 2024-12-21 18:12:39
+TorVersion Tor 0.4.8.13 (git-e153e72c01315f86)
+TotalBuildTimes 38

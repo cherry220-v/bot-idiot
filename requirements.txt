@@ -1,0 +1,7 @@
+gf4
+python-dotenv
+vosk
+yt_dlp
+pydub
+aiogram
+requests

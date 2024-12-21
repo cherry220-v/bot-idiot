@@ -1,0 +1,7 @@
+/.env
+/bot.log
+/model
+/vsk.py
+/words.py
+/__pycache__
+/ffmpeg
